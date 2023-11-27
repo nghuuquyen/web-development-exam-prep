@@ -10,3 +10,5 @@ The middle test will includes 05 topics as following below:
 - [HTML](html.md)
 - [CSS](css.md)
 - [Javascript](javascript.md)
+
+The anotation on each questions `[R] Remember, [U] Understand, [A] Apply` is level of question which based on Bloom's taxonomy.
